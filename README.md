@@ -14,12 +14,12 @@
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="page screen" src="./assets/screen1.png" width="400px">
-  <img alt="page screen" src="./assets/screen2.png" width="400px">
-  <img alt="page screen" src="./assets/screen3.png" width="400px">
-  <img alt="page screen" src="./assets/screen4.png" width="400px">
-  <img alt="page screen" src="./assets/screen5.png" width="400px">
-  <img alt="page screen" src="./assets/screen6.png" width="400px">
+  <img alt="page screen" src="./assets/img/screen1.png" width="400px">
+  <img alt="page screen" src="./assets/img/screen2.png" width="400px">
+  <img alt="page screen" src="./assets/img/screen3.png" width="400px">
+  <img alt="page screen" src="./assets/img/screen4.png" width="400px">
+  <img alt="page screen" src="./assets/img/screen5.png" width="400px">
+  <img alt="page screen" src="./assets/img/screen6.png" width="400px">
 </p>
 
 ---
