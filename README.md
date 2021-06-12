@@ -10,7 +10,7 @@
 </h4>
 
 ## Github Page
-<p>The application layout is available on<a href="https://yukiovn.github.io/starbucks_page/" target="_blank">Github Pages</a></p>
+<p>The application layout is available on <a href="https://yukiovn.github.io/starbucks_page/" target="_blank">Github Pages</a></p>
 
 ## Layout
 
